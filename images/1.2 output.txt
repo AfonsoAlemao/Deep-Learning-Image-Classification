@@ -1,0 +1,81 @@
+PS C:\Users\ruipe\Desktop\4.2\AP\homework1> python hw1-q1.py mlp
+Training epoch 1
+Total Loss = 427417.45145298267
+Accuracy on the training set: 0.7642
+Accuracy on the testing set: 0.6199
+Training epoch 2
+Total Loss = 112802.07224962834
+Accuracy on the training set: 0.6983
+Accuracy on the testing set: 0.5847
+Training epoch 3
+Total Loss = 53876.04480706762
+Accuracy on the training set: 0.8134
+Accuracy on the testing set: 0.7047
+Training epoch 4
+Total Loss = 34069.975193674305
+Accuracy on the training set: 0.8508
+Accuracy on the testing set: 0.7337
+Training epoch 5
+Total Loss = 26497.327828215683
+Accuracy on the training set: 0.868
+Accuracy on the testing set: 0.7481
+Training epoch 6
+Total Loss = 22003.77024942273
+Accuracy on the training set: 0.88
+Accuracy on the testing set: 0.7743
+Training epoch 7
+Total Loss = 18838.707966367456
+Accuracy on the training set: 0.8932
+Accuracy on the testing set: 0.7864
+Training epoch 8
+Total Loss = 16435.77001731613
+Accuracy on the training set: 0.8979
+Accuracy on the testing set: 0.7977
+Training epoch 9
+Total Loss = 14550.589538530254
+Accuracy on the training set: 0.9052
+Accuracy on the testing set: 0.7994
+Training epoch 10
+Total Loss = 13159.145383296835
+Accuracy on the training set: 0.9098
+Accuracy on the testing set: 0.8134
+Training epoch 11
+Total Loss = 11739.612465453845
+Accuracy on the training set: 0.9098
+Accuracy on the testing set: 0.811
+Training epoch 12
+Total Loss = 10743.343515409962
+Accuracy on the training set: 0.9177
+Accuracy on the testing set: 0.8298
+Training epoch 13
+Total Loss = 9750.993927186748
+Accuracy on the training set: 0.914
+Accuracy on the testing set: 0.8346
+Training epoch 14
+Total Loss = 8921.133777202513
+Accuracy on the training set: 0.923
+Accuracy on the testing set: 0.8365
+Training epoch 15
+Total Loss = 8226.787838964085
+Accuracy on the training set: 0.9245
+Accuracy on the testing set: 0.8379
+Training epoch 16
+Total Loss = 7481.739236926753
+Accuracy on the training set: 0.9299
+Accuracy on the testing set: 0.8489
+Training epoch 17
+Total Loss = 6845.3804460502915
+Accuracy on the training set: 0.923
+Accuracy on the testing set: 0.8354
+Training epoch 18
+Total Loss = 6374.789967880874
+Accuracy on the training set: 0.9238
+Accuracy on the testing set: 0.8341
+Training epoch 19
+Total Loss = 5860.014580885929
+Accuracy on the training set: 0.9302
+Accuracy on the testing set: 0.8502
+Training epoch 20
+Total Loss = 5472.89763314455
+Accuracy on the training set: 0.9324
+Accuracy on the testing set: 0.8567
